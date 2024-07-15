@@ -5,6 +5,8 @@ Implementing the classic Simon game using JavaScript for game logic, user intera
 ## Technologies Used
 
 - JavaScript
+- HTML
+- CSS
 
 ## Features
 
