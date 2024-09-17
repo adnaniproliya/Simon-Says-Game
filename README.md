@@ -12,7 +12,6 @@ Implementing the classic Simon game using JavaScript for game logic, user intera
 
 - **Gameplay**: Experience the classic Simon game with its iconic gameplay mechanics.
 - **User Interaction**: Responsive interface with easy-to-use buttons.
-- **Dark Mode**: Option to switch between light and dark themes for a better visual experience.
 - **High Score Tracking**: Tracks and displays the highest score achieved.
 
 ## How to Play
